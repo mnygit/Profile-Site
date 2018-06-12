@@ -72,7 +72,6 @@ span {
   font-family: 'Homemade Apple', cursive;
 }
 
-
 #salutation {
   font-size: 30px;
   padding: 25px;
@@ -109,7 +108,6 @@ height: 525px;
   background-color:#2C363F;
   padding: 25px;
   height: 420px;
-
 }
 
 .languages {
@@ -119,7 +117,7 @@ height: 525px;
   font-size: 70px;
   color: #F2F5EA;
   font-family: 'Comfortaa', cursive;
-  padding: 100px;
+  padding: 230px;
   letter-spacing: 50px;
   display: inline;
 }
@@ -151,33 +149,17 @@ form {
   margin: auto;
 
 }
+
 textarea {
   width: 450px;
   height: 50px;
 }
-
 
 .submit {
   width: 100px;
   height: 20px;
   background-color: #F2F5EA;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .button {
   color: #F2F5EA;
@@ -192,11 +174,7 @@ textarea {
   border: 2px solid #2C363F;
   border-radius: 10px;
   margin: 0 auto;
-
-
-
 }
-
 
 #contact {
   background-color: #E75A7C;
