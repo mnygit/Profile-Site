@@ -1,0 +1,198 @@
+/*  body of doc  */
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-size: 18px;
+  font-family: 'Comfortaa', cursive;
+  color: #F2F5EA;
+
+}
+
+/* header and navigation */
+
+header {
+  background-color: #BBC7A4;
+  padding: 25px;
+  height: 200px;
+}
+
+ nav ul {
+  list-style: none;
+  text-align: right;
+  height: 200px;
+}
+
+ nav li {
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+/* links */
+
+a:link, a:visited {
+    text-decoration: none;
+    color: #F2F5EA;
+}
+
+h1 {
+  color: #F2F5EA;
+  font-family: 'Homemade Apple', cursive;
+  font-size: 48px;
+  padding-bottom: 10px;
+  margin: 0px;
+
+}
+
+h2 {
+  font-family: 'Marck Script', cursive;
+  text-align: center;
+  font-size: 50px;
+}
+
+p {
+  text-align: left;
+  font-weight: bolder;
+  line-height: 1.8;
+}
+
+img {
+  width: 250px;
+  height: 290px;
+  border-radius: 50%;
+  border: 3px solid #F2F5EA;
+  outline: 5px inset #E75A7C;
+  float: right;
+  text-align: left;
+}
+
+span {
+  color: #E75A7C;
+  font-size: 40px;
+  font-family: 'Homemade Apple', cursive;
+}
+
+#salutation {
+  font-size: 30px;
+  padding: 25px;
+}
+
+.about-sentence {
+   background-color: #BBC7A4;
+   padding: 25px 45px 20px 45px;
+   width: 75%;
+   height: 225px;
+   margin: auto;
+   border: 2px solid #2C363F;
+
+}
+
+.sections {
+  height: 300px;
+}
+
+#intro {
+  background-color: #2C363F;
+  padding: 65px;
+}
+
+#about {
+background-color: #D6DBD2;
+color: #F2F5EA;
+padding: 25px;
+height: 525px;
+
+}
+
+#skills {
+  background-color:#2C363F;
+  padding: 25px;
+  height: 420px;
+}
+
+.languages {
+  margin: 0 auto;
+  width: 60%;
+  height: 10px;
+  font-size: 70px;
+  color: #F2F5EA;
+  font-family: 'Comfortaa', cursive;
+  padding: 230px;
+  letter-spacing: 50px;
+  display: inline;
+}
+
+.devicon-html5-plain-wordmark:hover, .devicon-css3-plain-wordmark:hover,.devicon-javascript-plain:hover,
+.devicon-php-plain:hover, .devicon-mysql-plain-wordmark:hover  {
+  background-color: #E75A7C;
+  border-radius: 15px;
+}
+
+/* Form section */
+
+.form-header {
+  font-family: 'Comfortaa', cursive;
+  color: #E75A7C;
+  text-align: center;
+  font-size: 23px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+form {
+  color: #E75A7C;
+  background-color: #2C363F;
+  border-radius: 15px;
+  padding: 25px 45px 20px 45px;
+  width: 40%;
+  height: 225px;
+  margin: auto;
+
+}
+
+textarea {
+  width: 450px;
+  height: 50px;
+}
+
+.submit {
+  width: 100px;
+  height: 20px;
+  background-color: #F2F5EA;
+}
+
+.button {
+  color: #F2F5EA;
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+  font-weight: bolder;
+  width: 150px;
+  height: 35px;
+  padding: 15px 10px 10px 15px;
+  text-decoration: none;
+  background-color: #BBC7A4;
+  border: 2px solid #2C363F;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+#contact {
+  background-color: #E75A7C;
+  padding: 25px;
+  height: 300px;
+}
+
+h5 {
+  letter-spacing: normal;
+  font-family:'Comfortaa', cursive;
+}
+
+.my-footer {
+background-color: #BBC7A4;
+padding: 120px 0px 150px 0px;
+text-align: center;
+font-size: 30px;
+letter-spacing: 20px;
+height: 50px;
+
+}
